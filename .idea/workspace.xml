@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fe2d964e-a195-4463-bb01-4481e1e100f9" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/guilherme.txt" afterPath="$PROJECT_DIR$/guilherme.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -16,8 +16,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="465">
-              <caret line="31" column="31" lean-forward="false" selection-start-line="31" selection-start-column="31" selection-end-line="31" selection-end-column="31" />
+            <state relative-caret-position="277">
+              <caret line="270" column="9" lean-forward="true" selection-start-line="270" selection-start-column="9" selection-end-line="270" selection-end-column="9" />
               <folding />
             </state>
           </provider>
@@ -111,12 +111,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1537490658045</updated>
-      <workItem from="1537490659469" duration="434000" />
+      <workItem from="1537490659469" duration="585000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="434000" />
+    <option name="totallyTimeSpent" value="585000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1363" y="-1" width="1030" height="748" extended-state="6" />
@@ -163,8 +163,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="31" column="31" lean-forward="false" selection-start-line="31" selection-start-column="31" selection-end-line="31" selection-end-column="31" />
+        <state relative-caret-position="277">
+          <caret line="270" column="9" lean-forward="true" selection-start-line="270" selection-start-column="9" selection-end-line="270" selection-end-column="9" />
           <folding />
         </state>
       </provider>
